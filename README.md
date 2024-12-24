@@ -1,6 +1,6 @@
 eCommerce Website Using React JS
 
-Deployed link : https://illustrious-llama-0923cf.netlify.app/login
+Deployed link : (https://illustrious-llama-0923cf.netlify.app/)
 
 This project showcases an eCommerce website built using React JS. The website is designed to provide a seamless shopping experience with multiple features, including product browsing, user authentication, and a responsive interface.
 Features
